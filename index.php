@@ -1,6 +1,6 @@
 <?php
 echo "Hello git";
-$test = 2;
+$test == 2;
 if ($){
 echo = "test is three";
 }
