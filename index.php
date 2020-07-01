@@ -8,7 +8,7 @@ else
 {
 echo = "test is three";
 }
-function looptest2 {
+function looptest1 {
 $i=$a;
 while ($i<$b){
 echo "index: $i\n";
