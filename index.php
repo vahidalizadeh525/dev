@@ -16,6 +16,8 @@ $i++;
 function looptest1 {
 wqddedevcfsfewsrfd
 hkj
+  hello
+  
 }
 }
 ?>
