@@ -13,11 +13,7 @@ $i=$a;
 while ($i<$b){
 echo "index: $i\n";
 $i++;
-function looptest1 {
-wqddedevcfsfewsrfd
-hkj
-  hello
-  SCZSXSCC
+GDFGDFVBGFBFGGGGGGGGGGGGGGGGG
 }
 }
 ?>
